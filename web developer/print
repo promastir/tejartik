@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    string n ="hello ahmed";
+    cout<<n;
+
+    return 0;
+}
